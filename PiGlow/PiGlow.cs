@@ -32,9 +32,6 @@ namespace RPi.PiGlow
 		public static byte[] Oranges { get {return _oranges;} }
 		public static byte[] Reds { get {return _reds;} }
 
-//		public static byte[] ARM0 {get {return _arm0;}}
-//		public static byte[] ARM1 {get {return _arm1;}}
-//		public static byte[] ARM2 {get {return _arm2;}}
 		public static byte[][] Arms = _arms;
 
 		private I2CBus _i2cBus;

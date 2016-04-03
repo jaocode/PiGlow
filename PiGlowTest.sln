@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiGlowTest", "PiGlowTest\PiGlowTest.csproj", "{F39939CF-2386-486E-8542-4C0EE60FF3E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPi.I2C.Net", "..\RPi.I2C.Net-master\RPi.I2C.Net\RPi.I2C.Net.csproj", "{2AE6A02F-4B57-43A1-8C19-2917008215D5}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiGlow", "PiGlow\PiGlow.csproj", "{03E9BB72-EC8A-4AE1-BB25-0E589FC54A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPi.I2C.Net", "RPi.I2C.Net\RPi.I2C.Net.csproj", "{2AE6A02F-4B57-43A1-8C19-2917008215D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
